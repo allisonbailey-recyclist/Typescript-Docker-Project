@@ -11,5 +11,11 @@
   "license": "ISC",
   "volta": {
     "node": "18.17.0"
+  },
+  "dependencies": {
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@tsconfig/node18": "^18.2.0"
   }
 }
